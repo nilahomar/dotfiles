@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = nilahomar@gmail.com
+	name = Nila Homar
